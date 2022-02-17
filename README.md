@@ -2,13 +2,7 @@
 <h3 align="center">Front-end Developer | UI and UX Designer</h3>
 <br>
 
-- 🔭 I’m currently working on **Bhoomi Seva web development**
-
-- 🌱 I’m currently learning **Firebase and React**
-
-- 💬 Ask me about **HTML, CSS & JavaScript**
-
-- 📫 How to reach me **manavmehta.official@gmail.com**
+<img src="https://github.com/ManavMehta-Official/ManavMehta-Official/blob/main/Screen%20Shot%202022-02-17%20at%209.45.00%20PM.png" >
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavmehta-official&show_icons=true&locale=en&layout=compact" alt="manavmehta-official" /></p>
