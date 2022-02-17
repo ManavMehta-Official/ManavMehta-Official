@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Mehta</h1>
-<h3 align="center">Web Developer | Student</h3>
+<h3 align="center">Front-end Developer | UI and UX Designer</h3>
 <br>
 
 - 🔭 I’m currently working on **Bhoomi Seva web development**
