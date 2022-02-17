@@ -8,10 +8,7 @@
 <a align="center" href="https://manavmehta-official.github.io/portfolio/">🔗 Portfolio Website</a>
 </div>
 
-<br><br>
-
-
-<br><br>
+<br>
 <h3 align="center"></h3>
 <p align="center">
 <a href="https://twitter.com/thehumanmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thehumanmehta" height="30" width="40" /></a>
