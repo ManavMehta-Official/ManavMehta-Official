@@ -4,6 +4,7 @@
 
 <img src="https://github.com/ManavMehta-Official/ManavMehta-Official/blob/main/Screen%20Shot%202022-02-17%20at%209.45.00%20PM.png" > <br>
 <p align="center">✉️ manavmehta.official@gmail.com</p>
+<a align="center" href="https://manavmehta-official.github.io/portfolio/">🔗 Portfolio Website</a>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavmehta-official&show_icons=true&locale=en&layout=compact" alt="manavmehta-official" /></p>
